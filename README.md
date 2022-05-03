@@ -24,4 +24,3 @@ Itérer jusqu’à obtenir le modèle le plus performant à vos yeux et interpr�
 Utiliser les notes obtenues (scores) pour construire des classes homogènes de risque (même nombre de CHR
 que la variable « grade ») et calcul des probabilités de défaut par CHR.
 ## V. Conclusion
-## VI. Annexe (vos programmes SAS et autres éléments)
