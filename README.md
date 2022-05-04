@@ -12,10 +12,10 @@ possibles à cette question : 1 – oui ou 0 – non.
 
 ## II. Variables explicatives
 1. Variables explicatives
-- Nettoyage du jeu de données
-- Statistiques descriptives pour décrire le jeu de données
+  - Nettoyage du jeu de données
+  - Statistiques descriptives pour décrire le jeu de données
 2. Profil du défaut
-- Etablir un profil type de défaut à travers notamment les tests de corrélation entre les
+  - Etablir un profil type de défaut à travers notamment les tests de corrélation entre les
 variables
 3. Méthodes de traitement de l’information et résultats
 ## III. Modélisation
